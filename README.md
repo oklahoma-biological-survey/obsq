@@ -1,4 +1,4 @@
-Cybercom Queue
+Oklahoma Biological Survey Queue
 ====
 
-Example Cybercom task queue. Good starting repo for various asynchronous tasks. 
+Task queue. Good starting repo for various asynchronous tasks. 
